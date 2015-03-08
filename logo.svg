@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Nuevo documento 1">
+   sodipodi:docname="logo.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -45,9 +45,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="-201.60174"
-     inkscape:cy="114.0254"
+     inkscape:zoom="0.35"
+     inkscape:cx="143.21352"
+     inkscape:cy="674.74304"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,7 +57,20 @@
      inkscape:window-height="744"
      inkscape:window-x="0"
      inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="497.50014,963.433"
+       id="guide3002" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="538.57144,478.57144"
+       id="guide3004" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="338.65365,848.27561"
+       id="guide3024" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -83,41 +96,54 @@
        sodipodi:cy="556.64789"
        sodipodi:rx="425.71429"
        sodipodi:ry="425.71429"
-       d="m 768.57144,556.64789 a 425.71429,425.71429 0 1 1 -2e-5,-0.14436"
+       d="m 768.57144,556.64789 c 0,235.11551 -190.59878,425.71429 -425.71429,425.71429 -235.11552,0 -425.714297,-190.59878 -425.714297,-425.71429 0,-235.11551 190.598777,-425.7143 425.714297,-425.7143 235.05913,0 425.63456,190.51081 425.71427,425.56994"
        sodipodi:start="0"
        sodipodi:end="6.2828462"
        sodipodi:open="true"
-       transform="matrix(0.94466393,0,0,0.94466393,177.43505,-134.49826)" />
+       transform="matrix(0.94466393,0,0,0.94466393,177.43505,-134.49826)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:49.20000076;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 539.29953,47.883186 c -497.041549,-31.51508 -540.3567343,699.037074 0,698.992394"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:49.20000076;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 516.40625,16.59375 C 280.51929,12.043035 138.46168,190.87431 128.59375,374.3125 c -5.09313,94.67777 24.13236,191.52426 92.03125,265.375 67.89889,73.85074 174.5033,123.38928 317.94644,126.0625 l 0.45981,-49.1875 C 406.31088,714.08911 314.99843,669.62738 256.84375,606.375 198.68907,543.12262 173.26214,459.78282 177.71875,376.9375 186.63196,211.24686 313.80232,50.61167 538.57144,66.004464 L 539.53125,17.625 c -7.80325,-0.534387 -15.51574,-0.884453 -23.125,-1.03125 z"
        id="path3759"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="sssccssccs"
+       inkscape:export-filename="/home/fernando/Documentos/Fernando/proyectos/cup-logo/path5237-52.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:49.20000076;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 498.01453,91.246636 6.06092,587.502684 C 222.82709,679.1598 129.2711,298.43461 352.06535,162.20244"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:49.20000076;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 523.13008,87.809484 c 0,0 -25.62994,-1.646434 -49.72383,2.96669 L 473.9375,638.375 C 343.96312,619.34753 278.90865,542.55946 258.09375,455.34375 c -22.19046,-92.97941 9.28408,-197.10501 80.5599,-251.25719 l 0,-60.93079 -28.62238,20.87548 c -89.37571,67.90366 -126.38117,191.42564 -99.8125,302.75 26.56867,111.32436 121.27079,210.30144 286.375,223.625 l 26.59375,2.15625 -0.0312,-26.6875 z"
        id="path3763"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="cccscccscccc"
+       inkscape:export-filename="/home/fernando/Documentos/Fernando/proyectos/cup-logo/path5237-52.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:49.20000076;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 587.90879,742.2751 582.19451,55.574406 c 266.5045,43.4161 418.91039,507.092364 12.95867,620.419304"
-       id="path3767"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:49.20000076;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 556.84375,20.40625 0,27.3125 0,577.5 0,116.34375 0.12627,23.06954 c 20.50297,-0.92547 34.45111,-5.41701 49.06123,-9.25878 l 0,-13.81076 0,-51.0625 1.125,-0.375 C 716.88825,654.91373 790.06844,597.42838 831.5,529.46875 872.93156,461.50912 882.04899,384.22791 868.40625,311.9375 841.12077,167.35668 725.32409,38.049418 584,23.25 z m 49.1875,56.625 c 102.65834,25.30017 192.4387,129.61627 214.03125,244.03125 11.74032,62.20981 3.95104,126.20041 -30.5625,182.8125 -32.89217,53.95258 -90.64453,102.19941 -183.46875,134.6875 l 0,-13.34375 z"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="cccccccccsssccssccc"
+       inkscape:export-filename="/home/fernando/Documentos/Fernando/proyectos/cup-logo/path5237-52.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="369.07181"
-       y="845.73419"
+       x="-51.151657"
+       y="914.42456"
        id="text5223"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/fernando/Documentos/Fernando/proyectos/cup-logo/path5237-52.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5225"
-         x="369.07181"
-         y="845.73419"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch">cup@utn-frt:#_</tspan></text>
+         x="-51.151657"
+         y="914.42456"
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch">cup@utn-frt:#_</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:none;stroke:#ffffff;stroke-width:10.40499973000000011;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
@@ -126,10 +152,23 @@
        sodipodi:cy="556.64789"
        sodipodi:rx="425.71429"
        sodipodi:ry="425.71429"
-       d="m 768.57144,556.64789 a 425.71429,425.71429 0 1 1 -2e-5,-0.14436"
+       d="m 768.57144,556.64789 c 0,235.11551 -190.59878,425.71429 -425.71429,425.71429 -235.11552,0 -425.714297,-190.59878 -425.714297,-425.71429 0,-235.11551 190.598777,-425.7143 425.714297,-425.7143 235.05913,0 425.63456,190.51081 425.71427,425.56994"
        sodipodi:start="0"
        sodipodi:end="6.2828462"
        sodipodi:open="true"
-       transform="matrix(0.94531651,0,0,0.94465996,176.93182,-134.49605)" />
-  </g>
+       transform="matrix(0.94531651,0,0,0.94465996,176.93182,-134.49605)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2994"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:144px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion2996"><rect
+           id="rect2998"
+           width="16.162441"
+           height="1220.2643"
+           x="-1697.0563"
+           y="-1417.0098"
+           style="font-size:144px" /></flowRegion><flowPara
+         id="flowPara3000"></flowPara></flowRoot>  </g>
 </svg>
